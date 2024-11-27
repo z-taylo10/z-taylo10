@@ -1,18 +1,47 @@
-# Hi there, I'm [Your Name] 👋
+   # Hi, I'm Zane Christopher Taylor 👋
 
-I'm a [Your Role/Title] with a passion for [Your Interests]. I'm currently working on [Current Projects] and learning [New Skills].
+   Aspiring IT graduate seeking an entry-level position to apply skills in IT support and web development. Eager to learn new skills and gain hands-on experience in the field.
 
-## 🛠️ Technologies & Tools
+   ## 🎓 Education
 
-- Programming Languages: Python, JavaScript, ...
-- Frameworks: React, Node.js, ...
-- Tools: Git, Docker, ...
+   **Bachelor of Fine Arts in Computer Science: Concentration in Information Technology (ITAA)**
+   - The University of North Carolina at Charlotte
+   - GPA: 3.57
+   - Honors: Dean’s List, Chancellor’s List
 
-## 📈 GitHub Stats
+   ## 🛠 Technical Skills
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+   - **Languages:** JavaScript, MySQL, Python, Java, HTML, CSS
+   - **IT Skills:** Server management, Microsoft software, IT support
 
-## 📫 How to reach me
+   ## 💼 Positions Held
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+   - **Social Media Consultant & Web Design Assistant**
+     - Crown Builders Siding & Windows, Charlotte, NC
+     - Developed and managed social media content to enhance brand presence.
+
+   - **Courier Driver**
+     - GrubHub, Greater Charlotte Area
+     - Delivered orders efficiently and learned valuable time management.
+
+   ## 📚 Projects
+
+   - **Diecast Collection Website**
+     - Developed a personal hobby website using Node.js, JavaScript, Python, HTML, XML, and CSS.
+
+   - **Data Mining Website**
+     - Built a simple site to showcase data mining class projects using Python and JavaScript.
+
+   - **Capstone Course Bookstore Project**
+     - Contributed around 30,000 lines of code using Node.js, React, and the Google Books API.
+
+   ## 📫 Contact
+
+   - **Email:** ztaylo10@hotmail.edu
+   - **Phone:** 704-221-5515
+   - [GitHub](https://github.com/z-taylo10)
+
+   ## 🌟 Volunteer Work
+
+   - **Edisto Beach Cleanup (2020-2024)**
+     - Participated in local cleanup efforts in Edisto Beach, SC.
