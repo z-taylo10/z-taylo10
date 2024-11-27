@@ -1,6 +1,6 @@
    # Hi, I'm Zane C. Taylor 👋
 
-   Aspiring IT graduate seeking an entry-level position to apply skills in IT support and web development. Eager to learn new skills and gain hands-on experience in the field.
+   Aspiring IT graduate seeking an entry-level position to apply skills in IT support and web development. Eager to learn new skills and gain hands-on experience in the field. You can find some of my older commits from my School Github here: [GitHub](https://github.com/ztaylo10)
 
    ## 🎓 Education
 
